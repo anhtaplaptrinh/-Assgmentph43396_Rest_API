@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824463618129",
+    "project_id": "assgmentrestapi",
+    "storage_bucket": "assgmentrestapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824463618129:android:784a30c24bbaba40c40870",
+        "android_client_info": {
+          "package_name": "com.example.assgment1_ph43396_rest_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2w77igXZ8pxu7P5DSJpq2vBuRmp7K1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
